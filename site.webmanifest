@@ -1,0 +1,19 @@
+{
+  "name": "BillDash – Free POS for Android",
+  "short_name": "BillDash",
+  "description": "100% free POS and billing app for Android, built for small hotels, kitchens and food businesses.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#FFFFFF",
+  "theme_color": "#12C94A",
+  "lang": "en-IN",
+  "icons": [
+    { "src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/assets/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "related_applications": [
+    { "platform": "play", "url": "https://play.google.com/store/apps/details?id=com.ncaps.billdash", "id": "com.ncaps.billdash" }
+  ]
+}
