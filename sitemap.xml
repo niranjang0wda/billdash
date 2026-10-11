@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://getbilldash.in/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://getbilldash.in/assets/img/app-billing-screen-600.webp</image:loc></image:image>
+    <image:image><image:loc>https://getbilldash.in/assets/img/app-sales-dashboard-560.webp</image:loc></image:image>
+    <image:image><image:loc>https://getbilldash.in/assets/img/app-payment-cash-upi-card-600.webp</image:loc></image:image>
+    <image:image><image:loc>https://getbilldash.in/assets/img/app-payment-received-receipt-600.webp</image:loc></image:image>
+    <image:image><image:loc>https://getbilldash.in/assets/img/app-expense-tracker-500.webp</image:loc></image:image>
+    <image:image><image:loc>https://getbilldash.in/assets/img/app-tablet-pos-billing-1600.webp</image:loc></image:image>
+    <image:image><image:loc>https://getbilldash.in/og-image.jpg</image:loc></image:image>
+  </url>
+</urlset>
