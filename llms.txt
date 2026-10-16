@@ -3,7 +3,7 @@
 > BillDash is 100% free POS billing software (Android app) for restaurants, cafés, bakeries, tiffin centres, juice shops, cloud kitchens and other food businesses in India. Made by Ncaps Infotech, Bengaluru.
 
 ## Key facts
-- Price: free (no limit on bills or products; optional subscription only removes ads)
+- Price: free (no limit on bills or products); optional BillDash Pro subscription removes ads and adds automatic Google Drive backups
 - Platform: Android phones and tablets — Google Play: https://play.google.com/store/apps/details?id=com.ncaps.billdash
 - Billing: tap-to-bill menu, quantities, parcel charges (per item or per bill), flat discounts, round-off
 - Payments: cash (with automatic change calculation), UPI and card
@@ -11,9 +11,10 @@
 - Printing: Bluetooth thermal receipt printers (58 mm, 80 mm, 100 mm), auto-print after payment, Android system printing, share bill as PDF
 - Reports: sales by day/week/month/custom range, bill count, average bill, payment split, profit (sales minus expenses), bill history with search, cancel/repeat bills
 - Expenses: category-wise expense tracking (vegetables, milk, gas, rent, salary, etc.)
-- Data: stored on the device; manual and automatic backup and restore; CSV and PDF export
+- Data: stored on the device; free backup to the user's own Google Drive and restore; CSV and PDF export
 - Support: WhatsApp +91 80508 58538
 
 ## Pages
 - Home: https://getbilldash.in/
-- Privacy policy: https://sites.google.com/view/pp-billdash/home
+- Privacy policy: https://getbilldash.in/privacy-policy/
+- Terms of service: https://getbilldash.in/terms/

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://getbilldash.in/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://getbilldash.in/assets/img/app-billing-screen-600.webp</image:loc></image:image>
@@ -12,5 +12,17 @@
     <image:image><image:loc>https://getbilldash.in/assets/img/app-expense-tracker-500.webp</image:loc></image:image>
     <image:image><image:loc>https://getbilldash.in/assets/img/app-tablet-pos-billing-1600.webp</image:loc></image:image>
     <image:image><image:loc>https://getbilldash.in/og-image.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://getbilldash.in/privacy-policy/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://getbilldash.in/terms/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
 </urlset>
